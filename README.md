@@ -20,6 +20,8 @@ Most AI "teaching" is just information dumping. A real teacher:
 
 This skill does all of that.
 
+https://youtu.be/qPhMqIzmbLU?si=RPYUhJ4iurskleaq
+
 ## Install
 
 Drop the `teach-me.skill` file into your Claude skill directory, or clone the repo:
